@@ -21,10 +21,10 @@ global.herokuapp = process.env.HEROKU_APP_NAME
 //settings
 
 let fake = process.env.OWNER_NUMBER
-global.owner = [`${fake}`]
+global.owner = ['212770565333']
 global.wame = "https://github.com/Ajmal-Achu/Wizard-MD"
-global.pemilik = ['918590508376']
-global.premium = ['918590508376']
+global.pemilik = ['212770565333', '212778673770', '212705466804']
+global.premium = ['212770565333', '212778673770', '212705466804']
 global.pengguna = process.env.USER_NAME
 global.footer = process.env.WATERMARK
 global.watermark = process.env.WATERMARK
