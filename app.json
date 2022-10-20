@@ -25,17 +25,17 @@
                "ALIVE_MESSAGE": {
 			"description": "Add a message here which you want to see when typing .alive",
 			"required": true,
-			"value": "iam alive"
+			"value": "As u can see 🗿"
 		},
 		"OWNER_NAME": {
 			"description": "Add the owner name here and if you want to use the default name then just leave it)",
 			"required": false,
-			"value": "AJMAL x ABHI"
+			"value": "Mouad El Janati"
 		},
 		"OWNER_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": "212770565333', '212778673770', '212705466804"
+			"value": "212770565333,212778673770,212705466804"
 		},
 		"Caption": {
 			"description": "Add the owner location here and if you want to use the default name then just leave it",
@@ -45,7 +45,7 @@
 		"WELCOME": {
 			"description": "Type true if you want to enable welcome by default",
 			"required": false,
-			"value": "false"
+			"value": "true"
 		},
 		"BOT_NAME": {
 			"description": "Change the bot name here",
@@ -55,7 +55,7 @@
 		"WATERMARK": {
 			"description": "Add your watermark here",
 			"required": true,
-			"value": "Wizard MD by AJMAL x ABHI"
+			"value": "It's Magic!"
 		},
 		"STICKER_PACK_NAME": {
 			"description": "Add sticker pack name here",
