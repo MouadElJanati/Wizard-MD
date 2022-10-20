@@ -35,7 +35,7 @@
 		"OWNER_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": ""
+			"value": "212770565333', '212778673770', '212705466804"
 		},
 		"Caption": {
 			"description": "Add the owner location here and if you want to use the default name then just leave it",
@@ -65,12 +65,12 @@
 		"STICKER_AUTHOR_NAME": {
 			"description": "Add sticker pack author name here",
 			"required": true,
-			"value": "AJMAL x ABHI"
+			"value": "Mouad El Janati"
 		},
 		"REACT_EMOJI": {
 			"description": "Add any emoji here.",
 			"required": true,
-			"value": ""
+			"value": "🗿"
 		},
                 "LOGO": {
 			"description": "Add any emoji here.",
